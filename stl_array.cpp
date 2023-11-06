@@ -21,4 +21,5 @@ int main()
         cout << ar[i] << " ";
     }
 
+    return 0;
 }
