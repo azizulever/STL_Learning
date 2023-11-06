@@ -1,1 +1,1 @@
-# STL_Learning
+# STL Learning with proper documentation
