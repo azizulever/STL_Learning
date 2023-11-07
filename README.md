@@ -1,1 +1,1 @@
-# STL Learning with proper documentation
+# STL Learning with documentation
